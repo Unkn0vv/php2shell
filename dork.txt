@@ -1,0 +1,1 @@
+host.services.software.product: "MediaWiki" or host.services.software.product: "Wordpress" or host.services.software.product: "phpBB" or host.services.software.product: "Magento" or host.services.software.product: "Laravel" or host.services.software.product: "Drupal" or host.services.software.product: "Symphony" or host.services.software.product = "whm"
